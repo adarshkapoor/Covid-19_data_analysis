@@ -11,5 +11,5 @@ The data was cleaned using Excel and two different CSV files were created- one f
 3. Infection rate by countries
 4. Percentage of fully vaccinated people accross the world. 
 
-These were then presented using interactive charts and visualizations in Microsoft Power BI. 
+These were then presented using interactive charts and visualizations in Microsoft Power BI. The SQL colde can seen in the file SQLQuery.sql and the power BI report can be downloaded as a pbix file  
 
